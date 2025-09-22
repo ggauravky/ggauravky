@@ -23,3 +23,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ggauravky&show_icons=true&locale=en" alt="ggauravky" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ggauravky&" alt="ggauravky" /></p>
+
+<img src="https://raw.githubusercontent.com/ggauravky/ggauravky/output/snake.svg" alt="Snake animation" />
+
+###
