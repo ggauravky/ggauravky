@@ -1,5 +1,16 @@
-# 💫 About Me:
-I’m Gaurav Kumar Yadav, a BCA 2nd year student at BBD University, Lucknow 🎓.<br>I enjoy coding, problem-solving, and building useful projects.<br><br>💻 Skills:<br>Web Development: HTML, CSS, JavaScript, React, Tailwind, Bootstrap<br>Programming: Python, Java (OOPs), C (Data Structures) <br>Databases: MySQL, PostgreSQL, SQL<br>Data Science: Pandas, NumPy, Matplotlib, Data Analysis<br>Other: Git, GitHub, Cybersecurity basics, Automation, Scripting<br><br>📚 Currently Learning: Data Structures in C, Java OOPs, MERN Stack, and advanced Data Science concepts<br>🚀 Working On: Portfolio websites, games (like Flappy Bird, Rubix Cube), Python automation tools, and data-driven projects<br>Always curious to explore new technologies and improve my skills 🚀<br><br>
+# About Me ☕  
+
+👋 Hi, I’m **Gaurav Kumar Yadav**  
+🎓 BCA 2nd year student at BBD University, Lucknow  
+
+## 💻 What I Do  
+I love coding, learning new tech, and building cool projects.  
+I work with **Python, Web Development, Data Science, and AI/ML**.  
+
+## ✨ My Interests  
+Exploring new technologies, creating useful tools, and sharing my journey with others.  
+
+<br><br>
 
 
 ## 🌐 Socials:
