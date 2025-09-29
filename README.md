@@ -11,8 +11,6 @@ I work with **Python, Web Development, Data Science, and AI/ML**.
 Exploring new technologies, creating useful tools, and sharing my journey with others.  
 
 <br><br>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_gau_rav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravky) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumar.gaurav.yadav2007@gmail.com) 
 
