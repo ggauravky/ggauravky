@@ -8,8 +8,8 @@ I love coding, learning new tech, and building cool projects.
 I work with **Python, Web Development, Data Science, and AI/ML**.  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ggauravky&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ggauravky&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ggauravky&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ggauravky&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <br><br>
