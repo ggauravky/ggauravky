@@ -1,5 +1,4 @@
 # About Me ☕  
-
 👋 Hi, I’m **Gaurav Kumar Yadav**  
 🎓 BCA 2nd year student at BBD University, Lucknow  
 
