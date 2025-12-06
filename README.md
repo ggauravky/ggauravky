@@ -17,6 +17,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
+  <a href="https://gauravky.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/gauravky"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/ggauravky"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://instagram.com/the_gau_rav"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
@@ -27,16 +28,29 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## 📊 GitHub Statistics
 
-I'm a **BCA 2nd year student** at **BBD University, Lucknow**, passionate about building projects and learning new technologies. I love exploring **Python development**, **Web technologies**, **Data Science & AI/ML**, and **Cyber Security**. I believe in learning by doing and constantly challenge myself with real-world projects and problem-solving.
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ggauravky&theme=nightowl&hide_border=true" height="180" alt="GitHub Streak"/>
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ggauravky&bg_color=011627&color=7fdbca&line=c792ea&point=ffeb95&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
 
-- 🔭 Currently working on **Python & Web development projects**
-- 📚 Learning **Data Science, AI/ML, and Cyber Security**
-- 💻 Practicing **DSA & Problem Solving** on **LeetCode** and **GeeksforGeeks**
-- 🌱 Interested in **real-world projects**, **open-source contribution**, and **freelancing**
-- 🎯 Goal: Become a strong **backend/data engineer** or **full stack developer**
-- 📫 Reach me at: [kumar.gaurav.yadav2007@gmail.com](mailto:kumar.gaurav.yadav2007@gmail.com)
+---
+
+## 📈 Coding Profile Stats
+
+<div align="center">
+  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/gauravky?theme=dark&ext=heatmap)](https://leetcode.com/u/gauravky/)
+
+<br/>
+
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Visit%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/gauravky)
+
+</div>
 
 ---
 
@@ -119,37 +133,6 @@ I'm a **BCA 2nd year student** at **BBD University, Lucknow**, passionate about 
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ggauravky&theme=nightowl&hide_border=true" height="180" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ggauravky&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggauravky&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="180" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ggauravky&bg_color=011627&color=7fdbca&line=c792ea&point=ffeb95&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
-
-## 📈 Coding Profile Stats
-
-<div align="center">
-  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/gauravky?theme=dark&ext=heatmap)](https://leetcode.com/u/gauravky/)
-
-<br/>
-
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Visit%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/gauravky)
-
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -165,16 +148,6 @@ I'm a **BCA 2nd year student** at **BBD University, Lucknow**, passionate about 
 <div align="center">
   
 ![](https://github-contributor-stats.vercel.app/api?username=ggauravky&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
-## ✍️ Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
