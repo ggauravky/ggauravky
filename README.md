@@ -31,12 +31,21 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ggauravky&theme=nightowl&hide_border=true" height="180" alt="GitHub Streak"/>
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=ggauravky&theme=dark&hide_border=false" 
+    alt="GitHub Streak Stats" 
+  />
 </div>
-<br>
+
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ggauravky&bg_color=011627&color=7fdbca&line=c792ea&point=ffeb95&area=true&hide_border=true" alt="Activity Graph"/>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ggauravky&bg_color=011627&color=7fdbca&line=c792ea&point=ffeb95&area=true&hide_border=true" 
+    alt="GitHub Activity Graph"
+  />
 </div>
+
 
 ---
 
