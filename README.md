@@ -33,8 +33,9 @@
 <div align="center">
   <img 
     src="https://nirzak-streak-stats.vercel.app/?user=ggauravky&theme=dark&hide_border=false" 
-    alt="GitHub Streak Stats" 
-  />
+  alt="GitHub Streak Stats" 
+/>
+  
 </div>
 
 <br/>
