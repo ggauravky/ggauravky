@@ -1,200 +1,199 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+<img width="2172" height="650" alt="ChatGPT Image May 26, 2026, 01_09_42 PM" src="https://github.com/user-attachments/assets/90456b39-d57f-46b3-ab0d-88177e723592" />
 </div>
 
 <div align="center">
 
-# Hi, I'm Gaurav Kumar Yadav 👋
-
-### BCA Student • Developer • Tech Enthusiast
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=BCA+Student+at+BBD+University;Python+%26+Web+Developer;Data+Science+%26+AI+Enthusiast;Always+Learning+%26+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Full+Stack+Applications;Data+Science+%7C+Machine+Learning+%7C+Deep+Learning;React+%7C+Next.js+%7C+Node.js+%7C+Python;Always+Learning.+Always+Building.+Always+Improving.)](https://git.io/typing-svg)
 
 </div>
 
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://ggauravky.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/gauravky"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/ggauravky"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://instagram.com/the_gau_rav"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://leetcode.com/u/gauravky/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://www.geeksforgeeks.org/profile/gauravky"><img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
-  <a href="mailto:kumar.gaurav.yadav2007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Analytics
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com?user=ggauravky&theme=dark" 
-      alt="GitHub Streak Stats" 
-    />
-  </a>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ggauravky&theme=dracula&hide_border=true&background=0d0d2b&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" />
+</p>
 
-  
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ggauravky&theme=dracula" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ggauravky&theme=dracula" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ggauravky&theme=dracula" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ggauravky&theme=dracula&utcOffset=5.5" alt="Productive Time" />
+</p>
 
-<br/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggauravky&show_icons=true&theme=dracula&hide_border=true&rank_icon=github&bg_color=0d0d2b&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggauravky&layout=compact&theme=dracula&hide_border=true&bg_color=0d0d2b&title_color=a78bfa&text_color=c4b5fd&langs_count=8" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ggauravky&bg_color=011627&color=7fdbca&line=c792ea&point=ffeb95&area=true&hide_border=true" 
-    alt="GitHub Activity Graph"
-  />
-</div>
-
-
----
-
-## 📈 Coding Profile Stats
-
-<div align="center">
-  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/gauravky?theme=dark&ext=heatmap)](https://leetcode.com/u/gauravky/)
-
-<br/>
-
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Visit%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/gauravky)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ggauravky&theme=dracula" width="100%" alt="Profile Details"/>
+</p>
 
 </div>
 
----
-
-## 💻 Tech Stack
-
-### 🧠 Languages
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-### 🎨 Frontend
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-</p>
-
-### ⚙️ Backend
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-</p>
-
-### 🗄️ Databases & Cloud
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
-</p>
-
-### 📊 Data Science & ML
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-</p>
-
-### 🛠️ Tools & DevOps
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
-  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg"/>
-</p>
-
-### 🎨 Design & Editing
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
-  <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP"/>
-  <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=ggauravky&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1)
+
+<img src="https://github-profile-trophy.vercel.app/?username=ggauravky&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
-## 🔝 Top Contributed Repositories
+## 📊 Contribution Graph
 
 <div align="center">
-  
-![](https://github-contributor-stats.vercel.app/api?username=ggauravky&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ggauravky&theme=dracula&bg_color=0d0d2b&color=a78bfa&line=7c3aed&point=c4b5fd&hide_border=true)](https://github.com/ggauravky)
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://ggauravky.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0d0d2b?style=for-the-badge&logo=vercel&logoColor=a78bfa" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/gauravky" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0d0d2b?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ggauravky" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0d0d2b?style=for-the-badge&logo=github&logoColor=a78bfa" alt="GitHub"/>
+  </a>
+  <a href="https://instagram.com/the_gau_rav" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0d0d2b?style=for-the-badge&logo=instagram&logoColor=a78bfa" alt="Instagram"/>
+  </a>
+  <a href="https://leetcode.com/u/gauravky/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-0d0d2b?style=for-the-badge&logo=leetcode&logoColor=a78bfa" alt="LeetCode"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/gauravky" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0d0d2b?style=for-the-badge&logo=geeksforgeeks&logoColor=a78bfa" alt="GeeksforGeeks"/>
+  </a>
+  <a href="mailto:kumar.gaurav.yadav2007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0d0d2b?style=for-the-badge&logo=gmail&logoColor=a78bfa" alt="Gmail"/>
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+## 🧰 Tech Arsenal
+
+<div align="center">
+
+### 🧠 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,java,c,html,css&theme=dark" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django&theme=dark" />
+</p>
+
+### 🗄️ Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb,aws,gcp,azure&theme=dark" />
+</p>
+
+### 📊 Data Science & ML
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-0d0d2b?style=for-the-badge&logo=scikit-learn&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/Pandas-0d0d2b?style=for-the-badge&logo=pandas&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/NumPy-0d0d2b?style=for-the-badge&logo=numpy&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/Matplotlib-0d0d2b?style=for-the-badge&logo=python&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/Seaborn-0d0d2b?style=for-the-badge&logo=python&logoColor=a78bfa" />
+</p>
+
+### 🛠️ Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma&theme=dark" />
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+## 🧠 Coding Profiles
+
+<div align="center">
+
+### 🔥 LeetCode
+[![LeetCode Stats](https://leetcard.jacoblin.cool/gauravky?theme=dark&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/u/gauravky/)
+
+<br/>
+
+### 🌿 GeeksforGeeks
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Visit%20My%20Profile-0d0d2b?style=for-the-badge&logo=geeksforgeeks&logoColor=a78bfa)](https://www.geeksforgeeks.org/profile/gauravky)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
 ## 💰 Support My Work
 
-If you like what I do, consider supporting me here:
-
 <p align="center">
-  <a href="https://buymeacoffee.com/gauravky"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/></a>
+  <a href="https://buymeacoffee.com/gauravky">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-0d0d2b?style=for-the-badge&logo=buy-me-a-coffee&logoColor=a78bfa" alt="Buy Me A Coffee"/>
+  </a>
 </p>
 
 ---
+## 🕹️ Contribution Snake
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhairyagothi/dhairyagothi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhairyagothi/dhairyagothi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dhairyagothi/dhairyagothi/output/pacman-contribution-graph.svg">
+</picture>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+---
+
+
+<p align="center" >
+  <img src="https://komarev.com/ghpvc/?username=ggauravky&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/ggauravky?tab=followers">
+    <img src="https://img.shields.io/github/followers/ggauravky?logo=github&style=for-the-badge&color=7c3aed&labelColor=0d0d2b" alt="Followers" />
+  </a>
+  <a href="https://github.com/ggauravky?tab=repositories">
+    <img src="https://img.shields.io/github/stars/ggauravky?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=7c3aed&labelColor=0d0d2b" alt="Stars" />
+  </a>
+</p>
+
+
+---
 <div align="center">
-
-### 👀 Profile Views
-
-[![](https://visitcount.itsvg.in/api?id=ggauravky&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
-
-### ⭐ If you like my work, don't forget to star some repositories!
-
-**💙 Thanks for visiting my profile!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
+  <i>🌌 "The best way to predict the future is to create it." 🌌</i>
 </div>
