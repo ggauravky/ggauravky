@@ -1,0 +1,61 @@
+{
+  "name": "Gaurav Kumar Yadav",
+  "handle": "ggauravky",
+  "title": "Full Stack + AI/ML Developer",
+  "positioning": "I build production-ready web applications and AI-powered products that solve real problems.",
+  "location": "Lucknow, Uttar Pradesh, India",
+  "role": {
+    "title": "Full Stack Developer Intern",
+    "company": "AshokSoft Technologies"
+  },
+  "education": [
+    {
+      "credential": "Bachelor of Computer Applications",
+      "institution": "Babu Banarasi Das University"
+    },
+    {
+      "credential": "Minor in AI & Data Science",
+      "institution": "IIT Mandi"
+    }
+  ],
+  "links": {
+    "github": "https://github.com/ggauravky",
+    "portfolio": "https://ggauravky.vercel.app/",
+    "linkedin": "https://www.linkedin.com/in/gauravky/",
+    "email": "mailto:kumar.gaurav.yadav2007@gmail.com",
+    "leetcode": "https://leetcode.com/u/gauravky/",
+    "geeksforgeeks": "https://www.geeksforgeeks.org/profile/gauravky"
+  },
+  "githubActivity": {
+    "streakPrimaryUrl": "https://camo.githubusercontent.com/80d675df3c581caef2a3fc4af3ab8bd8aeeff7037e331312e09e106dea1b3130/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d676761757261766b79267468656d653d64726163756c6126686964655f626f726465723d74727565266261636b67726f756e643d3064306432622672696e673d37633361656426666972653d613738626661266375727253747265616b4c6162656c3d613738626661",
+    "contributionAsset": "assets/generated/contribution.svg"
+  },
+  "featuredProjects": [
+    {
+      "name": "InstaX",
+      "category": "Full-stack social platform",
+      "repository": "https://github.com/ggauravky/InstaX",
+      "live": "https://instax-g.vercel.app/",
+      "stack": ["Next.js 16", "TypeScript", "Prisma", "PostgreSQL", "Clerk"]
+    },
+    {
+      "name": "InsightAudio",
+      "category": "AI meeting intelligence",
+      "repository": "https://github.com/ggauravky/InsightAudio",
+      "stack": ["Python", "Whisper", "LangChain", "ChromaDB", "Streamlit"]
+    },
+    {
+      "name": "SmartMess",
+      "category": "Hostel operations platform",
+      "repository": "https://github.com/ggauravky/SmartMess",
+      "live": "https://smartmesslms.vercel.app/",
+      "stack": ["React", "Node.js", "Express", "PostgreSQL", "Supabase"]
+    },
+    {
+      "name": "TrueCert",
+      "category": "Certificate verification SaaS",
+      "repository": "https://github.com/ggauravky/TrueCert",
+      "stack": ["React", "Node.js", "MongoDB", "Cloudinary", "SHA-256"]
+    }
+  ]
+}

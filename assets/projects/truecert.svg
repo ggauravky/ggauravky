@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
+  <title id="title">TrueCert project card</title><desc id="desc">A digital certificate issuance and verification platform with QR codes, signatures, PDFs and analytics.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1225"/><stop offset="1" stop-color="#101A3D"/></linearGradient><linearGradient id="accent"><stop stop-color="#247BFF"/><stop offset="1" stop-color="#FF354F"/></linearGradient><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#7896D2" stroke-opacity=".06"/></pattern></defs>
+  <rect x="1" y="1" width="998" height="298" rx="26" fill="url(#bg)" stroke="#7896D2" stroke-opacity=".22"/><rect x="1" y="1" width="998" height="298" rx="26" fill="url(#grid)"/><rect x="1" y="1" width="8" height="298" rx="4" fill="url(#accent)"/>
+  <text x="42" y="50" fill="#FF526A" font-family="ui-monospace,Consolas,monospace" font-size="15" letter-spacing="2">PROJECT 04 / VERIFICATION SAAS</text>
+  <text x="42" y="112" fill="#EEF1FA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="800">TrueCert</text>
+  <text x="42" y="145" fill="#A3B0D4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19">Issues digital certificates with public verification,</text>
+  <text x="42" y="169" fill="#A3B0D4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19">revocation and expiry handling.</text>
+  <text x="42" y="199" fill="#EEF1FA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="650">ENGINEERING SIGNAL</text>
+  <text x="42" y="229" fill="#A3B0D4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">SHA-256 checks, QR verification and scan analytics.</text>
+  <g font-family="ui-monospace,Consolas,monospace" font-size="14"><rect x="658" y="45" width="292" height="202" rx="20" fill="#070B16" fill-opacity=".72" stroke="#FF526A" stroke-opacity=".27"/><text x="686" y="80" fill="#66718F">TRUST FLOW</text><circle cx="697" cy="113" r="11" fill="#247BFF" fill-opacity=".22" stroke="#3B8CFF"/><text x="720" y="119" fill="#EEF1FA">ISSUE + SIGN</text><path d="M697 125v27" stroke="#66718F"/><circle cx="697" cy="164" r="11" fill="#247BFF" fill-opacity=".22" stroke="#3B8CFF"/><text x="720" y="170" fill="#EEF1FA">QR + PUBLIC VERIFY</text><text x="686" y="227" fill="#66718F">SOURCE VERIFIED</text></g>
+  <text x="42" y="274" fill="#66718F" font-family="ui-monospace,Consolas,monospace" font-size="15">REACT  ·  EXPRESS  ·  MONGODB  ·  CLOUDINARY  ·  SHA-256</text>
+</svg>
