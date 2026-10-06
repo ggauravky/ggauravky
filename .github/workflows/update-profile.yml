@@ -1,0 +1,55 @@
+name: Update profile activity
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 2 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile-activity
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v5
+
+      - name: Restore streak health state
+        id: streak-cache
+        uses: actions/cache/restore@v4
+        with:
+          path: .cache/streak
+          key: streak-health-${{ github.run_id }}
+          restore-keys: |
+            streak-health-
+
+      - name: Refresh streak health and last-known-good snapshot
+        run: python scripts/update-streak.py --state-dir .cache/streak
+
+      - name: Refresh contribution history
+        run: python scripts/generate-contribution.py
+
+      - name: Save streak health state
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: .cache/streak
+          key: streak-health-${{ github.run_id }}
+
+      - name: Commit changed profile assets only
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/generated/streak-last-good.svg assets/generated/contribution.svg
+          if git diff --cached --quiet; then
+            echo "Profile activity is already current."
+            exit 0
+          fi
+          git commit -m "chore: refresh profile activity"
+          git push

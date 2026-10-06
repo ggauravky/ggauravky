@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>GKY Profile README Preview</title>
+  <style>
+    :root { color-scheme: dark; --page: #0d1117; --panel: #161b22; --text: #e6edf3; --muted: #8b949e; --line: #30363d; }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--page); color: var(--text); font: 15px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; transition: background .2s, color .2s; }
+    body.light { --page: #f6f8fa; --panel: #fff; --text: #1f2328; --muted: #59636e; --line: #d0d7de; color-scheme: light; }
+    .toolbar { position: sticky; top: 0; z-index: 10; display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; padding: 12px; background: color-mix(in srgb, var(--page) 90%, transparent); border-bottom: 1px solid var(--line); backdrop-filter: blur(12px); }
+    button { border: 1px solid var(--line); border-radius: 8px; padding: 7px 12px; background: var(--panel); color: var(--text); cursor: pointer; font-weight: 600; }
+    button[aria-pressed="true"] { border-color: #247bff; box-shadow: 0 0 0 2px #247bff33; }
+    .readme { width: min(700px, calc(100% - 28px)); margin: 28px auto 60px; padding: 22px; background: var(--panel); border: 1px solid var(--line); border-radius: 8px; transition: width .25s; }
+    .readme img { display: block; width: 100%; height: auto; margin: 0; }
+    .readme h2 { margin: 34px 0 14px; padding-bottom: 8px; border-bottom: 1px solid var(--line); font-size: 1.5em; }
+    .readme p { margin: 12px 0; }
+    .readme a { color: #4493f8; text-decoration: none; }
+    .readme a:hover { text-decoration: underline; }
+    .actions, .footer { text-align: center; }
+    .activity { text-align: center; }
+    .activity-eyebrow { margin-bottom: 3px; color: #3b8cff; font: 600 12px/1.4 ui-monospace, Consolas, monospace; letter-spacing: 2px; }
+    .activity-subtitle { margin-top: 0; color: var(--muted); }
+    .streak-frame { min-height: 1px; margin: 24px auto 14px; }
+    .streak-frame img { width: min(620px, 100%); margin-inline: auto; }
+    .activity-rail { color: var(--muted); font: 12px/1.5 ui-monospace, Consolas, monospace; }
+    [hidden] { display: none !important; }
+    .spacer { height: 22px; }
+    .project-copy { margin-top: 10px; }
+    code { padding: 2px 5px; border-radius: 5px; background: color-mix(in srgb, var(--line) 55%, transparent); }
+    @media (max-width: 430px) { .readme { padding: 12px; margin-top: 14px; } .toolbar { justify-content: flex-start; } }
+  </style>
+</head>
+<body>
+  <nav class="toolbar" aria-label="Preview controls">
+    <button data-width="390">390px mobile</button>
+    <button data-width="700" aria-pressed="true">700px profile</button>
+    <button data-width="896">896px repository</button>
+    <button id="theme">Light page</button>
+    <button data-streak="live" aria-pressed="true">Live streak</button>
+    <button data-streak="fallback">Fallback</button>
+  </nav>
+  <main class="readme" id="readme">
+    <img src="../assets/sections/hero.svg" alt="Gaurav Kumar Yadav — Full Stack and AI/ML Developer" />
+    <p class="actions"><a href="https://ggauravky.vercel.app/"><strong>Portfolio ↗</strong></a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/gauravky/"><strong>LinkedIn ↗</strong></a> &nbsp;·&nbsp; <a href="mailto:kumar.gaurav.yadav2007@gmail.com"><strong>Email ↗</strong></a> &nbsp;·&nbsp; <a href="https://github.com/ggauravky"><strong>GitHub ↗</strong></a></p>
+    <p class="actions">I build production-ready web applications and AI-powered products — from interfaces and APIs to data, real-time systems and RAG.</p>
+    <h2>What I build</h2><img src="../assets/sections/capabilities.svg" alt="Engineering capability modules" />
+    <h2>Selected work</h2><p>Products chosen for engineering depth, technical range and recruiter value.</p>
+    <img src="../assets/projects/instax.svg" alt="InstaX project card" /><p class="project-copy"><strong>InstaX</strong> — Server-first social product. <a href="https://instax-g.vercel.app/">Live app ↗</a> · <a href="https://github.com/ggauravky/InstaX">Source code ↗</a></p><div class="spacer"></div>
+    <img src="../assets/projects/insightaudio.svg" alt="InsightAudio project card" /><p class="project-copy"><strong>InsightAudio</strong> — AI meeting intelligence and grounded RAG. <a href="https://github.com/ggauravky/InsightAudio">Source code ↗</a></p><div class="spacer"></div>
+    <img src="../assets/projects/smartmess.svg" alt="SmartMess project card" /><p class="project-copy"><strong>SmartMess</strong> — Hostel dining operations. <a href="https://smartmesslms.vercel.app/">Live app ↗</a> · <a href="https://github.com/ggauravky/SmartMess">Source code ↗</a></p><div class="spacer"></div>
+    <img src="../assets/projects/truecert.svg" alt="TrueCert project card" /><p class="project-copy"><strong>TrueCert</strong> — Secure certificate issuance and verification. <a href="https://github.com/ggauravky/TrueCert">Source code ↗</a></p>
+    <h2>Journey</h2><img src="../assets/sections/journey.svg" alt="Experience and education journey" />
+    <h2>Stack</h2><img src="../assets/sections/stack.svg" alt="Technology stack and system architecture" />
+    <h2>Current signal</h2><img src="../assets/sections/signal.svg" alt="Current engineering focus" />
+    <h2>GitHub momentum</h2>
+    <section class="activity" aria-label="GitHub activity preview">
+      <p class="activity-eyebrow">07 / ACTIVITY</p>
+      <p class="activity-subtitle">Consistency behind the projects.</p>
+      <div class="streak-frame" data-streak-panel="live">
+        <img src="https://camo.githubusercontent.com/80d675df3c581caef2a3fc4af3ab8bd8aeeff7037e331312e09e106dea1b3130/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d676761757261766b79267468656d653d64726163756c6126686964655f626f726465723d74727565266261636b67726f756e643d3064306432622672696e673d37633361656426666972653d613738626661266375727253747265616b4c6162656c3d613738626661" alt="Gaurav Kumar Yadav GitHub contribution streak — total contributions, current streak and longest streak" />
+      </div>
+      <div class="streak-frame" data-streak-panel="fallback" hidden>
+        <img src="../assets/generated/streak-fallback.svg" alt="GitHub activity is refreshing; Gaurav's contribution timeline remains available below" />
+      </div>
+      <p class="activity-rail">@ggauravky · ACTIVITY / CONSISTENCY / OPEN SOURCE</p>
+      <img src="../assets/generated/contribution.svg" alt="Gaurav Kumar Yadav public GitHub contribution history for the past year" />
+    </section>
+    <p class="actions"><a href="https://github.com/ggauravky?tab=repositories">Repositories ↗</a> · <a href="https://leetcode.com/u/gauravky/">LeetCode ↗</a> · <a href="https://www.geeksforgeeks.org/profile/gauravky">GeeksforGeeks ↗</a></p>
+    <h2>Developer ID</h2><img src="../assets/sections/developer-id.svg" alt="Gaurav's developer identity card" />
+    <div class="spacer"></div><img src="../assets/sections/connect.svg" alt="Connect with Gaurav" /><p class="actions"><a href="https://www.linkedin.com/in/gauravky/"><strong>LinkedIn ↗</strong></a> · <a href="https://ggauravky.vercel.app/"><strong>Portfolio ↗</strong></a> · <a href="mailto:kumar.gaurav.yadav2007@gmail.com"><strong>Email ↗</strong></a></p>
+    <p class="footer"><code>&lt;GKY /&gt;</code>&nbsp; BUILD · LEARN · SHIP</p>
+  </main>
+  <script>
+    const readme = document.querySelector('#readme');
+    const widthButtons = [...document.querySelectorAll('[data-width]')];
+    widthButtons.forEach((button) => button.addEventListener('click', () => {
+      readme.style.width = `min(${button.dataset.width}px, calc(100% - 28px))`;
+      widthButtons.forEach((item) => item.setAttribute('aria-pressed', String(item === button)));
+    }));
+    document.querySelector('#theme').addEventListener('click', (event) => {
+      document.body.classList.toggle('light');
+      event.currentTarget.textContent = document.body.classList.contains('light') ? 'Dark page' : 'Light page';
+    });
+    const streakButtons = [...document.querySelectorAll('[data-streak]')];
+    const streakPanels = [...document.querySelectorAll('[data-streak-panel]')];
+    streakButtons.forEach((button) => button.addEventListener('click', () => {
+      const mode = button.dataset.streak;
+      streakPanels.forEach((panel) => { panel.hidden = panel.dataset.streakPanel !== mode; });
+      streakButtons.forEach((item) => item.setAttribute('aria-pressed', String(item === button)));
+    }));
+  </script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
+  <title id="title">InstaX project card</title><desc id="desc">A Next.js social platform with server actions, PostgreSQL, optimized feeds, authentication and media uploads.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1225"/><stop offset="1" stop-color="#101A3D"/></linearGradient><linearGradient id="accent"><stop stop-color="#247BFF"/><stop offset="1" stop-color="#8B6CFF"/></linearGradient><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#7896D2" stroke-opacity=".06"/></pattern></defs>
+  <rect x="1" y="1" width="998" height="298" rx="26" fill="url(#bg)" stroke="#7896D2" stroke-opacity=".22"/><rect x="1" y="1" width="998" height="298" rx="26" fill="url(#grid)"/><rect x="1" y="1" width="8" height="298" rx="4" fill="url(#accent)"/>
+  <text x="42" y="50" fill="#3B8CFF" font-family="ui-monospace,Consolas,monospace" font-size="15" letter-spacing="2">PROJECT 01 / FULL-STACK SOCIAL</text>
+  <text x="42" y="112" fill="#EEF1FA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="800">InstaX</text>
+  <text x="42" y="145" fill="#A3B0D4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19">A server-first social platform for posts, media,</text>
+  <text x="42" y="169" fill="#A3B0D4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19">profiles, follows and notifications.</text>
+  <text x="42" y="199" fill="#EEF1FA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="650">ENGINEERING SIGNAL</text>
+  <text x="42" y="229" fill="#A3B0D4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">Optimistic UI, indexed Prisma queries and SSR views.</text>
+  <g font-family="ui-monospace,Consolas,monospace" font-size="14"><rect x="658" y="45" width="292" height="202" rx="20" fill="#070B16" fill-opacity=".72" stroke="#3B8CFF" stroke-opacity=".28"/><text x="686" y="80" fill="#66718F">BUILD MAP</text><circle cx="686" cy="111" r="5" fill="#3B8CFF"/><text x="704" y="117" fill="#EEF1FA">NEXT.JS 16 / REACT 19</text><path d="M686 122v22" stroke="#66718F"/><circle cx="686" cy="151" r="5" fill="#3B8CFF"/><text x="704" y="157" fill="#EEF1FA">PRISMA / POSTGRESQL</text><path d="M686 162v22" stroke="#66718F"/><circle cx="686" cy="191" r="5" fill="#FF526A"/><text x="704" y="197" fill="#EEF1FA">CLERK / UPLOADTHING</text><text x="686" y="227" fill="#66718F">LIVE + SOURCE VERIFIED</text></g>
+  <text x="42" y="274" fill="#66718F" font-family="ui-monospace,Consolas,monospace" font-size="15">TYPESCRIPT  ·  APP ROUTER  ·  NEON  ·  VERCEL</text>
+</svg>

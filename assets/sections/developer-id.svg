@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="390" viewBox="0 0 1000 390" role="img" aria-labelledby="title desc">
+  <title id="title">Gaurav Kumar Yadav developer identity card</title><desc id="desc">A compact identity card showing role, location, core work and signature handle.</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#0B1225"/><stop offset="1" stop-color="#101A3D"/></linearGradient><linearGradient id="stroke" x1="0" x2="1"><stop stop-color="#247BFF"/><stop offset=".75" stop-color="#715FFF"/><stop offset="1" stop-color="#FF354F"/></linearGradient><pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0H0V25" fill="none" stroke="#7896D2" stroke-opacity=".06"/></pattern></defs>
+  <rect x="1" y="1" width="998" height="388" rx="28" fill="#070B16" stroke="#7896D2" stroke-opacity=".22"/><rect x="38" y="36" width="924" height="318" rx="24" fill="url(#bg)" stroke="url(#stroke)" stroke-opacity=".7"/><rect x="38" y="36" width="924" height="318" rx="24" fill="url(#grid)"/>
+  <path d="M70 73h46M70 73v46M930 73h-46M930 73v46M70 317h46M70 317v-46M930 317h-46M930 317v-46" stroke="#66718F"/>
+  <g font-family="ui-monospace,Consolas,monospace"><text x="82" y="100" fill="#3B8CFF" font-size="15" letter-spacing="3">08 / IDENTITY RECORD</text><text x="784" y="100" fill="#66718F" font-size="14">GKY—01</text></g>
+  <text x="82" y="171" fill="#EEF1FA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="46" font-weight="800">GAURAV KUMAR YADAV</text><text x="84" y="211" fill="#A3B0D4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22">Full Stack + AI/ML Developer</text>
+  <path d="M82 240H918" stroke="#7896D2" stroke-opacity=".2"/>
+  <g font-family="ui-monospace,Consolas,monospace" font-size="14"><text x="82" y="278" fill="#66718F">BASE</text><text x="82" y="306" fill="#EEF1FA">LUCKNOW / INDIA</text><text x="340" y="278" fill="#66718F">BUILDS</text><text x="340" y="306" fill="#EEF1FA">WEB / APIS / DATA / AI</text><text x="674" y="278" fill="#66718F">HANDLE</text><text x="674" y="306" fill="#EEF1FA">@GGAURAVKY</text></g>
+  <circle cx="902" cy="176" r="33" fill="#247BFF" fill-opacity=".12" stroke="#3B8CFF"/><text x="902" y="184" text-anchor="middle" fill="#EEF1FA" font-family="ui-monospace,Consolas,monospace" font-size="20" font-weight="700">GK</text>
+  <text x="82" y="375" fill="#66718F" font-family="ui-monospace,Consolas,monospace" font-size="13">SIGNED / &lt;GKY /&gt;  ·  BUILDING USEFUL SYSTEMS END TO END</text>
+</svg>
