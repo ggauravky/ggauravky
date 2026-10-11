@@ -18,6 +18,33 @@
 
 <br />
 
+## GitHub momentum
+
+<p align="center">
+  <code>07 / ACTIVITY</code><br />
+  <sub>Consistency behind the projects.</sub>
+</p>
+
+<!-- streak:start -->
+<p align="center">
+  <img src="https://camo.githubusercontent.com/80d675df3c581caef2a3fc4af3ab8bd8aeeff7037e331312e09e106dea1b3130/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d676761757261766b79267468656d653d64726163756c6126686964655f626f726465723d74727565266261636b67726f756e643d3064306432622672696e673d37633361656426666972653d613738626661266375727253747265616b4c6162656c3d613738626661" alt="Gaurav Kumar Yadav GitHub contribution streak — total contributions, current streak and longest streak" width="620" />
+</p>
+<!-- streak:end -->
+
+<p align="center"><code>@ggauravky · ACTIVITY / CONSISTENCY / OPEN SOURCE</code></p>
+
+<img src="./assets/generated/contribution.svg" width="100%" alt="Gaurav Kumar Yadav public GitHub contribution history for the past year" />
+
+<p align="center">
+  <a href="https://github.com/ggauravky?tab=repositories">Repositories ↗</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/gauravky/">LeetCode ↗</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/gauravky">GeeksforGeeks ↗</a>
+</p>
+
+<br />
+
 ## What I build
 
 <img src="./assets/sections/capabilities.svg" width="100%" alt="Six engineering capabilities: frontend, backend and APIs, data, real-time systems, AI and RAG, and deployment" />
@@ -71,33 +98,6 @@ Products chosen for engineering depth, technical range and recruiter value.
 ## Current signal
 
 <img src="./assets/sections/signal.svg" width="100%" alt="Current focus: full-stack delivery, retrieval systems and production workflows" />
-
-<br />
-
-## GitHub momentum
-
-<p align="center">
-  <code>07 / ACTIVITY</code><br />
-  <sub>Consistency behind the projects.</sub>
-</p>
-
-<!-- streak:start -->
-<p align="center">
-  <img src="https://camo.githubusercontent.com/80d675df3c581caef2a3fc4af3ab8bd8aeeff7037e331312e09e106dea1b3130/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d676761757261766b79267468656d653d64726163756c6126686964655f626f726465723d74727565266261636b67726f756e643d3064306432622672696e673d37633361656426666972653d613738626661266375727253747265616b4c6162656c3d613738626661" alt="Gaurav Kumar Yadav GitHub contribution streak — total contributions, current streak and longest streak" width="620" />
-</p>
-<!-- streak:end -->
-
-<p align="center"><code>@ggauravky · ACTIVITY / CONSISTENCY / OPEN SOURCE</code></p>
-
-<img src="./assets/generated/contribution.svg" width="100%" alt="Gaurav Kumar Yadav public GitHub contribution history for the past year" />
-
-<p align="center">
-  <a href="https://github.com/ggauravky?tab=repositories">Repositories ↗</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/gauravky/">LeetCode ↗</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/profile/gauravky">GeeksforGeeks ↗</a>
-</p>
 
 <br />
 
