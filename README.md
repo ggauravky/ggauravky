@@ -18,6 +18,10 @@
 
 <br />
 
+<img src="./assets/sections/consistency.svg" width="100%" alt="300+ days of consistent coding, learning and building across projects, DSA, AI/ML and full-stack development" />
+
+<br />
+
 ## What I build
 
 <img src="./assets/sections/capabilities.svg" width="100%" alt="Six engineering capabilities: frontend, backend and APIs, data, real-time systems, AI and RAG, and deployment" />
