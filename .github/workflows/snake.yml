@@ -1,0 +1,62 @@
+name: Contribution snake
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "40 3 * * *"
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/snake.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      PYTHONUTF8: "1"
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Colours mirror scripts/profile_theme.py: graphite ramp into a single ember accent.
+      - name: Generate snake (light + dark)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-light.svg?color_snake=#D9531E&color_dots=#EBE8E2,#F2C9B4,#E99A72,#DE6B37,#B8410F&color_dot_border=#DCD8D0&color_background=transparent
+            dist/snake-dark.svg?color_snake=#E8663A&color_dots=#2A2825,#5C3221,#93431F,#C9551F,#F07A4A&color_dot_border=#383530&color_background=transparent
+
+      - name: Move snapshots into committed assets
+        run: |
+          test -s dist/snake-light.svg && test -s dist/snake-dark.svg
+          cp dist/snake-light.svg dist/snake-dark.svg assets/generated/
+
+      - name: Validate assets
+        run: python scripts/validate-assets.py
+
+      - name: Commit snake snapshots
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/generated/snake-light.svg assets/generated/snake-dark.svg
+          if git diff --cached --quiet; then
+            echo "Snake is already current."
+            exit 0
+          fi
+          git commit -m "chore: refresh contribution snake"
+          git pull --rebase origin main
+          git push origin HEAD:main

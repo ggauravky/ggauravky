@@ -4,24 +4,37 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "17 2 * * *"
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - "data/**"
+      - "templates/**"
+      - ".github/workflows/update-profile.yml"
 
 permissions:
   contents: write
 
 concurrency:
-  group: update-profile-activity
+  group: profile-assets
   cancel-in-progress: false
 
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
+    env:
+      PYTHONUTF8: "1"
     steps:
       - name: Check out profile repository
         uses: actions/checkout@v5
 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
       - name: Restore streak health state
-        id: streak-cache
         uses: actions/cache/restore@v4
         with:
           path: .cache/streak
@@ -29,11 +42,28 @@ jobs:
           restore-keys: |
             streak-health-
 
-      - name: Refresh streak health and last-known-good snapshot
+      - name: Render static sections from profile.json
+        run: python scripts/render-sections.py
+
+      - name: Build README from template
+        run: python scripts/build-readme.py
+
+      - name: Refresh streak snapshot (origin only, zero-guarded)
         run: python scripts/update-streak.py --state-dir .cache/streak
 
-      - name: Refresh contribution history
+      - name: Refresh contribution calendar
         run: python scripts/generate-contribution.py
+
+      - name: Refresh stats, languages and trophy case
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate-stats.py
+
+      - name: Refresh tech-stack row
+        run: python scripts/generate-stack.py
+
+      - name: Validate every asset before committing
+        run: python scripts/validate-assets.py
 
       - name: Save streak health state
         if: always()
@@ -46,10 +76,11 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md assets/generated/streak-last-good.svg assets/generated/contribution.svg
+          git add README.md assets/generated assets/sections assets/projects
           if git diff --cached --quiet; then
             echo "Profile activity is already current."
             exit 0
           fi
           git commit -m "chore: refresh profile activity"
-          git push
+          git pull --rebase origin main
+          git push origin HEAD:main
