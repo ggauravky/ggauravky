@@ -1,8 +1,10 @@
 {
   "name": "Gaurav Kumar Yadav",
   "handle": "ggauravky",
+  "monogram": "GKY",
   "title": "Full Stack + AI/ML Developer",
   "positioning": "I build production-ready web applications and AI-powered products that solve real problems.",
+  "summary": "From interfaces and APIs to data, real-time systems and retrieval — I like owning a product end to end and shipping it.",
   "location": "Lucknow, Uttar Pradesh, India",
   "role": {
     "title": "Full Stack Developer Intern",
@@ -26,34 +28,88 @@
     "leetcode": "https://leetcode.com/u/gauravky/",
     "geeksforgeeks": "https://www.geeksforgeeks.org/profile/gauravky"
   },
+  "capabilities": [
+    { "name": "Frontend systems", "detail": "Responsive product interfaces with clear state.", "tools": "React · Next.js · TypeScript" },
+    { "name": "Backend & APIs", "detail": "Auth, business logic and reliable REST services.", "tools": "Node.js · Express · REST" },
+    { "name": "Data layer", "detail": "Schemas and storage shaped around the product.", "tools": "PostgreSQL · MongoDB · Prisma" },
+    { "name": "Real-time", "detail": "Live messaging, presence and event-driven UX.", "tools": "Socket.IO · WebSockets" },
+    { "name": "AI & retrieval", "detail": "Grounded retrieval and media-intelligence pipelines.", "tools": "Python · Embeddings · Vector search" },
+    { "name": "Shipping", "detail": "Repeatable builds and production delivery.", "tools": "Docker · Vercel · Render" }
+  ],
+  "focus": [
+    "Full-stack delivery with Next.js and typed APIs",
+    "Retrieval systems that cite their sources",
+    "Cleaner production workflows — CI, previews, observability"
+  ],
+  "stack": [
+    { "slug": "typescript", "label": "TypeScript" },
+    { "slug": "javascript", "label": "JavaScript" },
+    { "slug": "react", "label": "React" },
+    { "slug": "nextdotjs", "label": "Next.js" },
+    { "slug": "nodedotjs", "label": "Node.js" },
+    { "slug": "express", "label": "Express" },
+    { "slug": "postgresql", "label": "PostgreSQL" },
+    { "slug": "mongodb", "label": "MongoDB" },
+    { "slug": "prisma", "label": "Prisma" },
+    { "slug": "supabase", "label": "Supabase" },
+    { "slug": "python", "label": "Python" },
+    { "slug": "langchain", "label": "LangChain" },
+    { "slug": "pandas", "label": "Pandas" },
+    { "slug": "scikitlearn", "label": "scikit-learn" },
+    { "slug": "docker", "label": "Docker" },
+    { "slug": "git", "label": "Git" },
+    { "slug": "vercel", "label": "Vercel" },
+    { "slug": "postman", "label": "Postman" }
+  ],
   "githubActivity": {
-    "streakPrimaryUrl": "https://camo.githubusercontent.com/80d675df3c581caef2a3fc4af3ab8bd8aeeff7037e331312e09e106dea1b3130/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d676761757261766b79267468656d653d64726163756c6126686964655f626f726465723d74727565266261636b67726f756e643d3064306432622672696e673d37633361656426666972653d613738626661266375727253747265616b4c6162656c3d613738626661",
-    "contributionAsset": "assets/generated/contribution.svg"
+    "streakOriginUrl": "https://streak-stats.demolab.com",
+    "streakParams": {
+      "hide_border": "true",
+      "border_radius": "0",
+      "date_format": "M j[, Y]"
+    },
+    "contributionAsset": "assets/generated/contribution"
   },
   "featuredProjects": [
     {
       "name": "InstaX",
+      "slug": "instax",
       "category": "Full-stack social platform",
+      "summary": "A server-first social platform for posts, media, profiles, follows and notifications.",
+      "signal": "Optimistic UI, indexed Prisma queries and server-rendered views.",
+      "highlights": ["Next.js 16 / React 19", "Prisma / PostgreSQL", "Clerk / UploadThing"],
       "repository": "https://github.com/ggauravky/InstaX",
       "live": "https://instax-g.vercel.app/",
       "stack": ["Next.js 16", "TypeScript", "Prisma", "PostgreSQL", "Clerk"]
     },
     {
       "name": "InsightAudio",
+      "slug": "insightaudio",
       "category": "AI meeting intelligence",
+      "summary": "Turns YouTube or local media into transcripts, structured notes and grounded Q&A.",
+      "signal": "Dual speech-to-text routing plus citation-backed vector retrieval.",
+      "highlights": ["Media → Whisper", "Chunks → embeddings", "Chroma → grounded answer"],
       "repository": "https://github.com/ggauravky/InsightAudio",
       "stack": ["Python", "Whisper", "LangChain", "ChromaDB", "Streamlit"]
     },
     {
       "name": "SmartMess",
+      "slug": "smartmess",
       "category": "Hostel operations platform",
+      "summary": "Digitizes hostel menus, attendance, meal feedback and complaint resolution.",
+      "signal": "Student and admin flows with JWT auth and relational data.",
+      "highlights": ["Role-based auth", "Meal & attendance data", "Feedback → admin"],
       "repository": "https://github.com/ggauravky/SmartMess",
       "live": "https://smartmesslms.vercel.app/",
       "stack": ["React", "Node.js", "Express", "PostgreSQL", "Supabase"]
     },
     {
       "name": "TrueCert",
+      "slug": "truecert",
       "category": "Certificate verification SaaS",
+      "summary": "Issues digital certificates with public verification, revocation and expiry handling.",
+      "signal": "SHA-256 integrity checks, QR verification and scan analytics.",
+      "highlights": ["Issue + sign", "QR + public verify", "Revoke + expire"],
       "repository": "https://github.com/ggauravky/TrueCert",
       "stack": ["React", "Node.js", "MongoDB", "Cloudinary", "SHA-256"]
     }
